@@ -23,10 +23,28 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="comunication.html" />
+    <Content Include="references.html" />
+    <Content Include="contact.html" />
+    <Content Include="about.html" />
+    <Content Include="behavior.html" />
     <Content Include="css\business-frontpage.css" />
     <Content Include="gallery.html" />
     <Content Include="gulpfile.js" />
+    <Content Include="animal.html" />
+    <Content Include="facts.html" />
+    <Content Include="diet.html" />
+    <Content Include="habitat.html" />
     <Content Include="homeimg.jpg" />
+    <Content Include="img\1.jpg" />
+    <Content Include="img\2.jpg" />
+    <Content Include="img\3.jpg" />
+    <Content Include="img\4.jpg" />
+    <Content Include="img\5.jpg" />
+    <Content Include="img\6.jpg" />
+    <Content Include="img\cazando-conejos-04.jpg" />
+    <Content Include="img\twitter.png" />
+    <Content Include="img\SistemaRespiratorio.png" />
     <Content Include="index.html" />
     <Content Include="vendor\bootstrap\css\bootstrap-grid.css" />
     <Content Include="vendor\bootstrap\css\bootstrap-grid.min.css" />
